@@ -1,0 +1,10 @@
+[
+  {"id":"tutorial","name":"Tutorial","chart":"assets/shared/data/tutorial/tutorial.json","inst":"assets/songs/tutorial/Inst.ogg","playerVoices":"assets/songs/tutorial/Voices-Player.ogg"},
+  {"id":"bopeebo","name":"Bopeebo","chart":"assets/shared/data/bopeebo/bopeebo.json","inst":"assets/songs/bopeebo/Inst.ogg","playerVoices":"assets/songs/bopeebo/Voices-Player.ogg"},
+  {"id":"fresh","name":"Fresh","chart":"assets/shared/data/fresh/fresh.json","inst":"assets/songs/fresh/Inst.ogg","playerVoices":"assets/songs/fresh/Voices-Player.ogg"},
+  {"id":"dad-battle","name":"Dad Battle","chart":"assets/shared/data/dad-battle/dad-battle.json","inst":"assets/songs/dad-battle/Inst.ogg","playerVoices":"assets/songs/dad-battle/Voices-Player.ogg"},
+  {"id":"spookeez","name":"Spookeez","chart":"assets/shared/data/spookeez/spookeez.json","inst":"assets/songs/spookeez/Inst.ogg","playerVoices":"assets/songs/spookeez/Voices-Player.ogg"},
+  {"id":"south","name":"South","chart":"assets/shared/data/south/south.json","inst":"assets/songs/south/Inst.ogg","playerVoices":"assets/songs/south/Voices-Player.ogg"},
+  {"id":"pico","name":"Pico","chart":"assets/shared/data/pico/pico.json","inst":"assets/songs/pico/Inst.ogg","playerVoices":"assets/songs/pico/Voices-Player.ogg"},
+  {"id":"ugh","name":"Ugh","chart":"assets/shared/data/ugh/ugh.json","inst":"assets/songs/ugh/Inst.ogg","playerVoices":"assets/songs/ugh/Voices-Player.ogg"}
+]
